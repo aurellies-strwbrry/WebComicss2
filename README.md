@@ -1,4 +1,4 @@
-# Genre Filter Demo
+# Genre Filter 
 
 Branch `fitur-genre` — Fitur filtering/klasifikasi genre komik.
 
